@@ -161,4 +161,3 @@ QA Automation Engineer in training – Dedicated to building robust, scalable te
 - [ ] Pytest-parallel (xdist)
 - [ ] SQL/DB validation layer
 
-> **🚀 Tip:** This project can be your GitHub portfolio centerpiece for job applications and interviews. Showcase it with confidence.
