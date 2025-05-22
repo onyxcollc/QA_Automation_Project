@@ -1,1 +1,1 @@
-# QA_Automation_Project-README
+# QA_Automation_Project
