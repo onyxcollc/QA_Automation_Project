@@ -11,3 +11,6 @@ def test_is_valid_email():
 
 def test_capitalize_words():
     assert capitalize_words('hello world') == 'Hello World'
+
+def test_user_email_is_valid(sample_use):
+    assert is_valid_email(sample_use['email']) == True
